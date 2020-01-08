@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.zykj:zykj-common-security:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zykj/zykj-common-security/3.0.0-SNAPSHOT/zykj-common-security-3.0.0-20191126.093811-71.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zykj/zykj-common-security/3.0.0-SNAPSHOT/zykj-common-security-3.0.0-20191126.093811-71-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zykj/zykj-common-security/3.0.0-SNAPSHOT/zykj-common-security-3.0.0-20191126.093811-71-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

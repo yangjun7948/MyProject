@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.zykj:zykj-common-core:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zykj/zykj-common-core/3.0.0-SNAPSHOT/zykj-common-core-3.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zykj/zykj-common-core/3.0.0-SNAPSHOT/zykj-common-core-3.0.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zykj/zykj-common-core/3.0.0-SNAPSHOT/zykj-common-core-3.0.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

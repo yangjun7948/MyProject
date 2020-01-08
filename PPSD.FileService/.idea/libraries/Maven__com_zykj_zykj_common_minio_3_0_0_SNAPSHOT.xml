@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.zykj:zykj-common-minio:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zykj/zykj-common-minio/3.0.0-SNAPSHOT/zykj-common-minio-3.0.0-20191126.093834-69.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zykj/zykj-common-minio/3.0.0-SNAPSHOT/zykj-common-minio-3.0.0-20191126.093834-69-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zykj/zykj-common-minio/3.0.0-SNAPSHOT/zykj-common-minio-3.0.0-20191126.093834-69-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
